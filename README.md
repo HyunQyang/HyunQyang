@@ -16,3 +16,7 @@
 <img src ="https://img.shields.io/badge/Android Studio -3DDC84?style=flat&logo=Android Studio&logoColor=white"/>  <img src ="https://img.shields.io/badge/Figma -F24E1E?style=flat&logo=Figma&logoColor=white"/>
 ### INTERESTED IN...
 <img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>  <img src ="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> 
+
+## CERTIFICATE & LICENSE
+* 한국사 검정2급
+* 운전면허 1종 보통

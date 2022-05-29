@@ -5,4 +5,6 @@
 
 ## SKILLS
 ### LANGUAGE
-<img src ="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src ="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src ="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+### OS
+<img src ="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>

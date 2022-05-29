@@ -3,7 +3,8 @@
 * Tel</br> 010-8370-5896
 * MAJOR</br> computer science in Hallym University
 ### CONTACT
-[<img src ="https://img.shields.io/badge/FACE BOOK-1877f2?style=flat&logo=Facebook&logoColor=white"/>]("https://www.facebook.com/profile.php?id=100004070140353")
+[<img src ="https://img.shields.io/badge/FACE BOOK-1877f2?style=flat&logo=Facebook&logoColor=white"/>]("https://www.facebook.com/profile.php?id=100004070140353") <img src ="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+
 
 
 ## SKILLS

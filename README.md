@@ -1,6 +1,6 @@
 #  PROFILE
 * NAME</br>양현규 Hyun-Kyu Yang
-* MAJOR</br> computer science in Hallym University
+* MAJOR</br> computer science
 ### CONTACT
 #### EMAIL:  yhk974@gmail.com
 
